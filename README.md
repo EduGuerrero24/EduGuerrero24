@@ -41,9 +41,7 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="IMAGEN" /></a>
       <h2>Descripcion</h2>
           <p align="left"> 
-            • Analicé y descompuse requisitos funcionales complejos para 
-  la implementación de funcionalidad "Agregar licencia de conducir". 
-            /• Identifiqué y documenté zonas grises en especificaciones, 
+          • Identifiqué y documenté zonas grises en especificaciones, 
   proponiendo clarificaciones para requisitos ambiguos.
             /• Desarrollé mapa mental completo utilizando draw.io para 
   visualizar interfaz y funcionalidad del sistema.
@@ -58,11 +56,7 @@
             /• Documenté discrepancias entre requisitos y implementación 
   real de la aplicación
           </p>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+      </p>      
 </td>
 <td width="25%" align="center">
     <p align="center">
