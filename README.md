@@ -42,9 +42,13 @@
       <h2>Descripcion</h2>
           <p align="left"> 
             • Analicé y descompuse requisitos funcionales complejos para 
-  la implementación de funcionalidad "Agregar licencia de conducir". 
+  la implementación de funcionalidad "Agregar licencia de conducir"/ 
             • Identifiqué y documenté zonas grises en especificaciones, 
-  proponiendo clarificaciones para requisitos ambiguos
+  proponiendo clarificaciones para requisitos ambiguos/
+            • Desarrollé mapa mental completo utilizando draw.io para 
+  visualizar interfaz y funcionalidad del sistema/
+            • Diseñé diagramas de flujo que documentan el comportamiento 
+  esperado para entradas correctas e incorrectas/
           </p>
       </p>
     <p align="center">
