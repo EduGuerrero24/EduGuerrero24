@@ -42,13 +42,21 @@
       <h2>Descripcion</h2>
           <p align="left"> 
             • Analicé y descompuse requisitos funcionales complejos para 
-  la implementación de funcionalidad "Agregar licencia de conducir"/ 
+  la implementación de funcionalidad "Agregar licencia de conducir". 
             • Identifiqué y documenté zonas grises en especificaciones, 
-  proponiendo clarificaciones para requisitos ambiguos/
+  proponiendo clarificaciones para requisitos ambiguos.
             • Desarrollé mapa mental completo utilizando draw.io para 
-  visualizar interfaz y funcionalidad del sistema/
+  visualizar interfaz y funcionalidad del sistema.
             • Diseñé diagramas de flujo que documentan el comportamiento 
-  esperado para entradas correctas e incorrectas/
+  esperado para entradas correctas e incorrectas.
+            • Apliqué análisis de valores límite para identificar casos 
+  críticos y escenarios de falla potencial
+            • Diseñé matriz completa de casos de prueba cubriendo 
+  escenarios positivos, negativos y casos límite
+            • Verifiqué flujos de navegación y ventanas emergentes 
+  según especificaciones de UX/UI
+            • Documenté discrepancias entre requisitos y implementación 
+  real de la aplicación
           </p>
       </p>
     <p align="center">
