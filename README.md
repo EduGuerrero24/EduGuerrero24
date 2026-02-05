@@ -37,8 +37,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="[https://youtu.be/rISmdhlhOPM](https://docs.google.com/spreadsheets/d/18O_QKcZu2O_OzLEhlD6Ss-_OkqWuSLA7/edit?usp=sharing&ouid=107099853303053487202&rtpof=true&sd=true)" title="Go to Source">
-        <img align="center" width=100% src="https://Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="VIDEO" /></a>
+     <a href="https://docs.google.com/document/d/1kOderq5j_fhqll_F04z6C6viZMGgLeKH/edit?usp=drive_link&ouid=107099853303053487202&rtpof=true&sd=true" title="Enlaces">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="VIDEO" /></a>
       <h2>Descripcion</h2>
           <p align="left"> 
             • Analicé y descompuse requisitos funcionales complejos para 
