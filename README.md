@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Eduardo Yaved Guerrero Romero ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-guerrero-5bba92294" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -38,11 +38,13 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="[https://youtu.be/rISmdhlhOPM](https://docs.google.com/spreadsheets/d/18O_QKcZu2O_OzLEhlD6Ss-_OkqWuSLA7/edit?usp=sharing&ouid=107099853303053487202&rtpof=true&sd=true)" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="VIDEO" /></a>
       <h2>Descripcion</h2>
           <p align="left"> 
             • Analicé y descompuse requisitos funcionales complejos para 
-  la implementación de funcionalidad "Agregar licencia de conducir"
+  la implementación de funcionalidad "Agregar licencia de conducir". 
+            • Identifiqué y documenté zonas grises en especificaciones, 
+  proponiendo clarificaciones para requisitos ambiguos
           </p>
       </p>
     <p align="center">
