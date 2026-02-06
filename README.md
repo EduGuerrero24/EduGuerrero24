@@ -40,7 +40,7 @@
      <a href="https://docs.google.com/document/d/1kOderq5j_fhqll_F04z6C6viZMGgLeKH/edit?usp=drive_link&ouid=107099853303053487202&rtpof=true&sd=true" title="Enlaces">
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="IMAGEN" /></a>
       <h2>Descripcion</h2>
-          <p align="left"> 
+          <p align="center"> 
   • Identifiqué y documenté zonas grises en especificaciones, 
   proponiendo clarificaciones para requisitos ambiguos.
             
@@ -69,7 +69,7 @@
      <a href="https://docs.google.com/document/d/18YWEtej7IC4DClQUk-b2vxTf4ET_-J4zncqHqNLDGT8/edit?usp=sharing" title="Enlaces">
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
        <h2>Descripcion</h2>
-          <p align="left"> 
+          <p align="center"> 
    • Validé comportamiento de ventanas emergentes críticas: 
   "Automóvil reservado", "Cancelar viaje" y "Viaje cancelado"
             
