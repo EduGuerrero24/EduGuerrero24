@@ -1,5 +1,4 @@
 <img src="Gemini_Generated_Image_ui9c27ui9c27ui9c.png" /> 
-<h1 align="center">Hola 👋  soy Eduardo Yaved Guerrero Romero ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-guerrero-5bba92294" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
