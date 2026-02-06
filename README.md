@@ -60,13 +60,24 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+     <a href="https://docs.google.com/document/d/18YWEtej7IC4DClQUk-b2vxTf4ET_-J4zncqHqNLDGT8/edit?usp=sharing" title="Enlaces">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
+       <h2>Descripcion</h2>
+          <p align="left"> 
+          • Validé comportamiento de ventanas emergentes críticas: 
+  "Automóvil reservado", "Cancelar viaje" y "Viaje cancelado"
+          /• Implementé testing de navegación y mapas interactivos 
+  en interfaz central del sistema
+          /• Validé compatibilidad y consistencia de funcionalidades 
+  across diferentes resoluciones de pantalla
+          /• Diseñé casos de prueba positivos y negativos para 
+  funcionalidad crítica del botón "Reservar"
+           /• Creé matriz completa de escenarios de testing cubriendo 
+  flujos principales y casos excepcionales
+            /• Mantuve trazabilidad entre requisitos, diseños Figma 
+  y casos de prueba ejecutados
+          </p>
       </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
 </td>
   
   <td width="25%" align="center">
