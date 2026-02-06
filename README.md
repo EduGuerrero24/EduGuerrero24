@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="Gemini_Generated_Image_ui9c27ui9c27ui9c.png" /> 
 <h1 align="center">Hola 👋  soy Eduardo Yaved Guerrero Romero ✨ </h1> 
 
 <p align="left">
