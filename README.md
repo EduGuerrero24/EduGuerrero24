@@ -56,7 +56,6 @@
             /• Documenté discrepancias entre requisitos y implementación 
   real de la aplicación.
           </p>
-    <br>
       </p>      
 </td>
 <td width="25%" align="center">
@@ -65,17 +64,23 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
        <h2>Descripcion</h2>
           <p align="left"> 
-          • Validé comportamiento de ventanas emergentes críticas: 
+   • Validé comportamiento de ventanas emergentes críticas: 
   "Automóvil reservado", "Cancelar viaje" y "Viaje cancelado"
-          /• Implementé testing de navegación y mapas interactivos 
+            
+ • Implementé testing de navegación y mapas interactivos 
   en interfaz central del sistema
-          /• Validé compatibilidad y consistencia de funcionalidades 
+  
+ • Validé compatibilidad y consistencia de funcionalidades 
   across diferentes resoluciones de pantalla
-          /• Diseñé casos de prueba positivos y negativos para 
+  
+ • Diseñé casos de prueba positivos y negativos para 
   funcionalidad crítica del botón "Reservar"
-           /• Creé matriz completa de escenarios de testing cubriendo 
+
+  
+  • Creé matriz completa de escenarios de testing cubriendo 
   flujos principales y casos excepcionales
-            /• Mantuve trazabilidad entre requisitos, diseños Figma 
+            
+  • Mantuve trazabilidad entre requisitos, diseños Figma 
   y casos de prueba ejecutados
           </p>
       </p>
