@@ -83,6 +83,7 @@
   • Mantuve trazabilidad entre requisitos, diseños Figma 
   y casos de prueba ejecutados
           </p>
+<br>
       </p>
 </td>
   
