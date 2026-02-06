@@ -95,7 +95,23 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://drive.google.com/drive/folders/1wKywcROOxp-9S_oTue_YPe0QqweGWSu_?usp=drive_link" title="Enlace">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Romantic Date Night Above Paris.jpg"   alt="IMAGEN" /></a>
+             <h2>Pruebas de aplicación web</h2>
+          <p align="center"> 
+• Derivé criterios de aceptación específicos a partir de 
+  documentación técnica de requisitos del backend
+            
+• Identifiqué reglas de negocio, validaciones de datos y 
+  comportamientos de error esperados para testing
+
+  • Implementé cobertura completa de escenarios: casos positivos,
+  negativos, casos límite y manejo de errores
+
+  • Ejecuté casos de prueba utilizando Postman para validación 
+  de endpoints de API en tiempo real
+
+  • Creé reportes detallados de bugs identificados durante 
+  testing de API utilizando Jira como herramienta de tracking
       </p>
     <p align="center">
         <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -111,38 +127,3 @@
 <br>
 <br><br><br>
 <br><br>
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
