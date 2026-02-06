@@ -66,7 +66,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://docs.google.com/document/d/18YWEtej7IC4DClQUk-b2vxTf4ET_-J4zncqHqNLDGT8/edit?usp=sharing" title="Enlaces">
+     <a href="https://drive.google.com/drive/folders/1VKtwmUIOhNGI4xRAYtB2WpnNZJLJ3D-T?usp=drive_link" title="Enlaces">
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
        <h2>Pruebas de aplicación web</h2>
           <p align="center"> 
@@ -94,7 +94,7 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+     <a href="https://drive.google.com/drive/folders/1wKywcROOxp-9S_oTue_YPe0QqweGWSu_?usp=drive_link" title="Enlace">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
