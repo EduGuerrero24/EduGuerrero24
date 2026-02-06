@@ -48,15 +48,15 @@
             /• Diseñé diagramas de flujo que documentan el comportamiento 
   esperado para entradas correctas e incorrectas.
             /• Apliqué análisis de valores límite para identificar casos 
-  críticos y escenarios de falla potencial
+  críticos y escenarios de falla potencial.
             /• Diseñé matriz completa de casos de prueba cubriendo 
-  escenarios positivos, negativos y casos límite
+  escenarios positivos, negativos y casos límite.
             /• Verifiqué flujos de navegación y ventanas emergentes 
-  según especificaciones de UX/UI
+  según especificaciones de UX/UI.
             /• Documenté discrepancias entre requisitos y implementación 
-  real de la aplicación
+  real de la aplicación.
           </p>
-          <br>
+    <br>
       </p>      
 </td>
 <td width="25%" align="center">
