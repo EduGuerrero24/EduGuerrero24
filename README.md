@@ -56,12 +56,13 @@
             /• Documenté discrepancias entre requisitos y implementación 
   real de la aplicación
           </p>
+          <br>
       </p>      
 </td>
 <td width="25%" align="center">
     <p align="center">
      <a href="https://docs.google.com/document/d/18YWEtej7IC4DClQUk-b2vxTf4ET_-J4zncqHqNLDGT8/edit?usp=sharing" title="Enlaces">
-        <img align="center" width=120% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
        <h2>Descripcion</h2>
           <p align="left"> 
           • Validé comportamiento de ventanas emergentes críticas: 
