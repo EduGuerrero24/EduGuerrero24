@@ -41,19 +41,25 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="IMAGEN" /></a>
       <h2>Descripcion</h2>
           <p align="left"> 
-          • Identifiqué y documenté zonas grises en especificaciones, 
+  • Identifiqué y documenté zonas grises en especificaciones, 
   proponiendo clarificaciones para requisitos ambiguos.
-            /• Desarrollé mapa mental completo utilizando draw.io para 
+            
+  • Desarrollé mapa mental completo utilizando draw.io para 
   visualizar interfaz y funcionalidad del sistema.
-            /• Diseñé diagramas de flujo que documentan el comportamiento 
+  
+  • Diseñé diagramas de flujo que documentan el comportamiento 
   esperado para entradas correctas e incorrectas.
-            /• Apliqué análisis de valores límite para identificar casos 
+  
+  • Apliqué análisis de valores límite para identificar casos 
   críticos y escenarios de falla potencial.
-            /• Diseñé matriz completa de casos de prueba cubriendo 
+  
+  • Diseñé matriz completa de casos de prueba cubriendo 
   escenarios positivos, negativos y casos límite.
-            /• Verifiqué flujos de navegación y ventanas emergentes 
+  
+  • Verifiqué flujos de navegación y ventanas emergentes 
   según especificaciones de UX/UI.
-            /• Documenté discrepancias entre requisitos y implementación 
+  
+  • Documenté discrepancias entre requisitos y implementación 
   real de la aplicación.
           </p>
       </p>      
@@ -83,7 +89,6 @@
   • Mantuve trazabilidad entre requisitos, diseños Figma 
   y casos de prueba ejecutados
           </p>
-<br>
       </p>
 </td>
   
