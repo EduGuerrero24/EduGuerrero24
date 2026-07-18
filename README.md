@@ -36,15 +36,16 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://drive.google.com/drive/folders/1FtByxhuRTHLDF-nBmT8H_bx43yQhmgoT?usp=drive_link" title="Enlaces">
+     <a href="https://github.com/EduGuerrero24/qa-project-Urban-Routes-es.git" title="Enlaces">
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="IMAGEN" /></a>
-      <h2>Diseño de Casos de Prueba</h2>
+      <h2>Atumatización de Pruebas</h2>
           <p align="center"> 
-  • Identifiqué y documenté zonas grises en especificaciones, 
-  proponiendo clarificaciones para requisitos ambiguos.
+  • Trabaje en la automatización de pruebas de la página web "Urban Scooter" 
+    empleando el POM para darle escalavilidad al proyecto y la reutilización
+    del código, en caso de ser requerido.
             
-  • Desarrollé mapa mental completo utilizando draw.io para 
-  visualizar interfaz y funcionalidad del sistema.
+  • Atumoatizé 9 pruebas mediante código en python, en las que se testearon 
+  funcionalidades de la aplicación con las que el usuario tiene contacto directo.
   
   • Diseñé diagramas de flujo que documentan el comportamiento 
   esperado para entradas correctas e incorrectas.
@@ -52,8 +53,8 @@
   • Apliqué análisis de valores límite para identificar casos 
   críticos y escenarios de falla potencial.
   
-  • Diseñé matriz completa de casos de prueba cubriendo 
-  escenarios positivos, negativos y casos límite.
+  • Manejé elementos dinámicos que aparecen tras acciones 
+  del usario.
   
   • Verifiqué flujos de navegación y ventanas emergentes 
   según especificaciones de UX/UI.
@@ -65,23 +66,22 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://drive.google.com/drive/folders/1VKtwmUIOhNGI4xRAYtB2WpnNZJLJ3D-T?usp=drive_link" title="Enlaces">
+     <a href="https://docs.google.com/spreadsheets/d/1oH_5uJOtA4IR5kwmp1J_SJt9Cl2JDYpB/edit?usp=sharing&ouid=107099853303053487202&rtpof=true&sd=true" title="Enlaces">
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
-       <h2>Pruebas de aplicación web</h2>
+       <h2>Pruebas Funcionales de Aplicaciones Web, Móvil y API</h2>
           <p align="center"> 
-   • Validé comportamiento de ventanas emergentes críticas: 
-  "Automóvil reservado", "Cancelar viaje" y "Viaje cancelado"
+ • Diseñé mapra mental para vizualizar los requicitos de la aplicación web
+  Urban scooter.
             
- • Implementé testing de navegación y mapas interactivos 
-  en interfaz central del sistema
+ • Diseñe casos de prueba para la página web urban scooter (usuarios), así mismo para 
+ la aplicación móvil(repartidores) y las solicitudes API. Simulando la interacción, para
+ probar la funcionalidad de las aplicaciones y la interacción con el servidor.
   
- • Validé compatibilidad y consistencia de funcionalidades 
-  across diferentes resoluciones de pantalla
+ • Realizé informes de errores mediante Jira. 
   
  • Diseñé casos de prueba positivos y negativos para 
   funcionalidad crítica del botón "Reservar"
 
-  
   • Creé matriz completa de escenarios de testing cubriendo 
   flujos principales y casos excepcionales
             
