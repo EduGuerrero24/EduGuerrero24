@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postman,discord,figma,jira,sql,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,postman,discord,figma,jira,postgreSQL&perline=6" />
   </a>
 </p>
 <br>
