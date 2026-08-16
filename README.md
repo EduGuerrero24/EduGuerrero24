@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-     <h3> API: </h3> <img src="https://skillicons.dev/icons?i=postman&perline=6" /> <h3> Automation: </h3> <img src="https://skillicons.dev/icons?i=py,selenium&perline=6" />
+    <h3> Testing: Manual Testing, Functional Testing, Regression Testing, Smoke Testing, API Testing </h3> <h3> API: </h3> <img src="https://skillicons.dev/icons?i=postman&perline=6" /> <h3> Automation: </h3> <img src="https://skillicons.dev/icons?i=py,selenium&perline=6" /> <h3> Databae: </h3> <img src="https://skillicons.dev/icons?i=postgres&perline=6" /> <h3> Tools: </h3> <img src="https://skillicons.dev/icons?i=,discord,figma,jira,git,github&perline=6" /> <h3> Methologies: Agile/Scrum </h3> 
   </a>
 </p>
 <br>
