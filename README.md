@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postman,discord,figma,jira,postgres,git,selenium&perline=6" />
+     <h3> API: </h3> <img src="https://skillicons.dev/icons?i=py&perline=6" /> 
   </a>
 </p>
 <br>
@@ -40,12 +40,12 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Apanhar um Uber pode vir a ficar mais difícil!.jpg"   alt="IMAGEN" /></a>
       <h2>Atumatización de Pruebas</h2>
           <p align="center"> 
-  • Trabaje en la automatización de pruebas de la página web "Urban Scooter" 
-    empleando el POM para darle escalavilidad al proyecto y la reutilización
+  • Trabajé en la automatización de pruebas de la página web "Urban Scooter" 
+    empleando el POM para darle escalabilidad al proyecto y la reutilización
     del código, en caso de ser requerido.
             
-  • Atumoatizé 9 pruebas mediante código en python, en las que se testearon 
-  funcionalidades de la aplicación con las que el usuario tiene contacto directo.
+  • Atuomaticé 9 pruebas mediante código en python, en las que se testearon 
+  funcionalidades de la aplicación con las que el usario tiene contacto directo.
   
   • Diseñé diagramas de flujo que documentan el comportamiento 
   esperado para entradas correctas e incorrectas.
@@ -70,14 +70,14 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/EduGuerrero24/EduGuerrero24/main/Consejos de seguridad en viajes con iPhone que deberías aplicar siempre.jpg"   alt="IMAGEN" /></a>
        <h2>Pruebas Funcionales de Aplicaciones Web, Móvil y API</h2>
           <p align="center"> 
- • Diseñé mapra mental para vizualizar los requicitos de la aplicación web
+ • Diseñé mapa mental para vizualizar los requisitos de la aplicación web
   Urban scooter.
             
  • Diseñe casos de prueba para la página web urban scooter (usuarios), así mismo para 
  la aplicación móvil(repartidores) y las solicitudes API. Simulando la interacción, para
  probar la funcionalidad de las aplicaciones y la interacción con el servidor.
   
- • Realizé informes de errores mediante Jira. 
+ • Realicé informes de errores mediante Jira. 
   
  • Diseñé casos de prueba positivos y negativos para 
   funcionalidad crítica del botón "Reservar"
