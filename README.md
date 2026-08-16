@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-     <h3> API: </h3> <img src="https://skillicons.dev/icons?i=py&perline=6" /> 
+     <h3> API: </h3> <img src="https://skillicons.dev/icons?i=postman&perline=6" /> <h3> Automation: </h3> <img src="https://skillicons.dev/icons?i=py,selenium&perline=6" />
   </a>
 </p>
 <br>
